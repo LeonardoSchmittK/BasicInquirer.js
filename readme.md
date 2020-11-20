@@ -3,7 +3,9 @@
 - Enhance the quality of the CLI prompt with [Inquirer](https://www.npmjs.com/package/inquirer), and compare with the pattern [Readline](https://nodejs.org/api/readline.html) provided by Node
 
 ---
-
+# Commands
+#####npm start
+---
 ```` 
 const inquirer = require("inquirer");
 const log = console.log;
